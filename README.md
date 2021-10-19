@@ -1,7 +1,7 @@
 ## Hello World
 
 ### App Description
-`TODO://` A basic app for the CodePath Intro to Mobile App Development - Android course.
+A basic app for the CodePath Intro to Mobile App Development - Android course.
 
 ### App Walk-though
 
